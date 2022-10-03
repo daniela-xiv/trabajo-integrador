@@ -1,0 +1,23 @@
+#oradores img{
+    max-width: 228px;
+}
+
+#oradores{
+    font-size: small;
+}
+
+.col{
+    border: solid 10px white;
+}
+
+.container{
+    position: relative;
+    
+}
+
+.text{
+    position: absolute;
+    text-align: end;
+    color: white;
+}
+
